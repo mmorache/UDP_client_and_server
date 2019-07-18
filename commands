@@ -1,0 +1,16 @@
+javac Response.java
+javac ResponseBinConst.java
+javac ResponseDecoder.java
+javac ResponseDecoderBin.java
+javac ResponseEncoder.java
+javac ResponseEncoderBin.java
+javac Request.java
+javac RequestBinConst.java
+javac RequestDecoder.java
+javac RequestDecoderBin.java
+javac RequestEncoder.java
+javac RequestEncoderBin.java
+javac SendUDP.java
+javac RecvUDP.java
+
+
